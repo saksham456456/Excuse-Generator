@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="bg_dark_gradient_end">#1A1A1A</color>
+
+    <color name="savage_yellow">#FFD700</color>
+    <color name="savage_orange">#FF8C00</color>
+    <color name="generator_blue">#00BFFF</color>
+
+    <color name="cat_school_bg">#2C2C2C</color>
+    <color name="cat_work_bg">#104E5B</color>
+    <color name="cat_relationships_bg">#7B1818</color>
+    <color name="cat_savage_mode_bg">#8B0000</color>
+
+    <color name="glow_purple_start">#9C27B0</color>
+    <color name="glow_purple_end">#7B1FA2</color>
+    <color name="glow_purple_stroke">#E040FB</color>
+
+    <color name="btn_secondary_bg">#1E1E1E</color>
+    <color name="btn_secondary_stroke">#333333</color>
+</resources>

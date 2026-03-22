@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Savage Excuse Generator</string>
+    <string name="give_me_excuse">Give Me An Excuse 😈</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="select_category">Select Category</string>
+    <string name="excuse_placeholder">Tap the button to get a savage excuse! 🚀</string>
+</resources>

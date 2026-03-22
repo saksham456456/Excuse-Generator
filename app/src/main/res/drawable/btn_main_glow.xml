@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Glow effect using a slightly larger shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="35dp" />
+            <solid android:color="#33E040FB" />
+        </shape>
+    </item>
+    <!-- Main button body -->
+    <item android:top="2dp" android:bottom="2dp" android:left="2dp" android:right="2dp">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/glow_purple_start"
+                android:endColor="@color/glow_purple_end"
+                android:angle="0" />
+            <corners android:radius="32dp" />
+            <stroke android:width="2dp" android:color="@color/glow_purple_stroke" />
+        </shape>
+    </item>
+</layer-list>
