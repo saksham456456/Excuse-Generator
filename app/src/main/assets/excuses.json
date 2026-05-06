@@ -1,0 +1,5252 @@
+[
+    {
+        "id": 1,
+        "category": "Clingy Ex",
+        "text": "My inner demon ran away with my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 2,
+        "category": "Toxic Savage",
+        "text": "Honestly, I'd rather stare at a wall."
+    },
+    {
+        "id": 3,
+        "category": "Work",
+        "text": "A wild pigeon accidentally sent to space the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 4,
+        "category": "Strict Boss",
+        "text": "My brain forgot about my keys ... send help."
+    },
+    {
+        "id": 5,
+        "category": "Savage",
+        "text": "Honestly, I just didn't want to."
+    },
+    {
+        "id": 6,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... let's just pretend this never happened."
+    },
+    {
+        "id": 7,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... what can you do, right?"
+    },
+    {
+        "id": 8,
+        "category": "Relationships",
+        "text": "My internet router forgot about my motivation ... what can you do, right?"
+    },
+    {
+        "id": 9,
+        "category": "Toxic Savage",
+        "text": "Listen, I value my own time more than yours."
+    },
+    {
+        "id": 10,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid deleted my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 11,
+        "category": "Savage",
+        "text": "Look, I'd rather stare at a wall."
+    },
+    {
+        "id": 12,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 13,
+        "category": "Toxic Savage",
+        "text": "To be brutally honest, I just didn't want to."
+    },
+    {
+        "id": 14,
+        "category": "Relationships",
+        "text": "My cat froze my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 15,
+        "category": "Savage",
+        "text": "To be brutally honest, I value my own time more than yours."
+    },
+    {
+        "id": 16,
+        "category": "Toxic Savage",
+        "text": "Look, I just didn't want to."
+    },
+    {
+        "id": 17,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... what can you do, right?"
+    },
+    {
+        "id": 18,
+        "category": "Toxic Savage",
+        "text": "Honestly, I value my own time more than yours."
+    },
+    {
+        "id": 19,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon melted my keys ... send help."
+    },
+    {
+        "id": 20,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... it's a tragedy, really."
+    },
+    {
+        "id": 21,
+        "category": "School",
+        "text": "My goldfish ran away with my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 22,
+        "category": "Relationships",
+        "text": "My alarm clock ran away with my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 23,
+        "category": "School",
+        "text": "A wild pigeon ran away with the WiFi password ... send help."
+    },
+    {
+        "id": 24,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 25,
+        "category": "Toxic Savage",
+        "text": "Listen, I just didn't want to."
+    },
+    {
+        "id": 26,
+        "category": "Relationships",
+        "text": "My phone deleted the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 27,
+        "category": "Savage",
+        "text": "Look, this sounds like a 'you' problem."
+    },
+    {
+        "id": 28,
+        "category": "Relationships",
+        "text": "My goldfish hijacked my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 29,
+        "category": "Work",
+        "text": "A mysterious hacker accidentally sent to space my presentation ... what can you do, right?"
+    },
+    {
+        "id": 30,
+        "category": "Strict Boss",
+        "text": "My cat ate the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 31,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... let's just pretend this never happened."
+    },
+    {
+        "id": 32,
+        "category": "Work",
+        "text": "My laptop destroyed my motivation ... it's a tragedy, really."
+    },
+    {
+        "id": 33,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... send help."
+    },
+    {
+        "id": 34,
+        "category": "Work",
+        "text": "My dog melted my motivation ... what can you do, right?"
+    },
+    {
+        "id": 35,
+        "category": "School",
+        "text": "A wild pigeon accidentally sent to space the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 36,
+        "category": "Clingy Ex",
+        "text": "The weather set fire to my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 37,
+        "category": "Work",
+        "text": "My internet router froze my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 38,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 39,
+        "category": "Work",
+        "text": "A time traveler froze my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 40,
+        "category": "Clingy Ex",
+        "text": "My cat froze my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 41,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... send help."
+    },
+    {
+        "id": 42,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... let's just pretend this never happened."
+    },
+    {
+        "id": 43,
+        "category": "Work",
+        "text": "My laptop accidentally sent to space the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 44,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... let's just pretend this never happened."
+    },
+    {
+        "id": 45,
+        "category": "School",
+        "text": "My dog ate my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 46,
+        "category": "Strict Boss",
+        "text": "My dog forgot about my motivation ... send help."
+    },
+    {
+        "id": 47,
+        "category": "Relationships",
+        "text": "My brain set fire to my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 48,
+        "category": "Toxic Savage",
+        "text": "Honestly, this sounds like a 'you' problem."
+    },
+    {
+        "id": 49,
+        "category": "Toxic Savage",
+        "text": "Not gonna lie, this sounds like a 'you' problem."
+    },
+    {
+        "id": 50,
+        "category": "Relationships",
+        "text": "My brain ran away with the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 51,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 52,
+        "category": "Savage",
+        "text": "Listen, I forgot you existed for a moment."
+    },
+    {
+        "id": 53,
+        "category": "School",
+        "text": "My phone refused to process my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 54,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... send help."
+    },
+    {
+        "id": 55,
+        "category": "Strict Boss",
+        "text": "My inner demon ran away with the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 56,
+        "category": "Work",
+        "text": "A wild pigeon set fire to my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 57,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... so yeah, I can't make it."
+    },
+    {
+        "id": 58,
+        "category": "Clingy Ex",
+        "text": "My internet router melted my schedule ... what can you do, right?"
+    },
+    {
+        "id": 59,
+        "category": "Clingy Ex",
+        "text": "My phone hijacked my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 60,
+        "category": "Relationships",
+        "text": "My laptop deleted my memory ... what can you do, right?"
+    },
+    {
+        "id": 61,
+        "category": "Work",
+        "text": "My goldfish refused to process my memory ... send help."
+    },
+    {
+        "id": 62,
+        "category": "Relationships",
+        "text": "A wild pigeon accidentally sent to space my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 63,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... what can you do, right?"
+    },
+    {
+        "id": 64,
+        "category": "Strict Boss",
+        "text": "My alarm clock froze my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 65,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid melted my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 66,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid froze my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 67,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 68,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... it's a tragedy, really."
+    },
+    {
+        "id": 69,
+        "category": "Clingy Ex",
+        "text": "My internet router refused to process my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 70,
+        "category": "Work",
+        "text": "My cat ran away with my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 71,
+        "category": "Relationships",
+        "text": "An alien ran away with the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 72,
+        "category": "Strict Boss",
+        "text": "My cat destroyed my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 73,
+        "category": "Work",
+        "text": "A time traveler set fire to the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 74,
+        "category": "Work",
+        "text": "My inner demon froze my keys ... send help."
+    },
+    {
+        "id": 75,
+        "category": "Relationships",
+        "text": "My cat melted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 76,
+        "category": "Relationships",
+        "text": "A wild pigeon forgot about my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 77,
+        "category": "Relationships",
+        "text": "My brain forgot about the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 78,
+        "category": "School",
+        "text": "My goldfish hijacked the project files ... send help."
+    },
+    {
+        "id": 79,
+        "category": "Strict Boss",
+        "text": "The weather ran away with the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 80,
+        "category": "Strict Boss",
+        "text": "My brain refused to process the project files ... what can you do, right?"
+    },
+    {
+        "id": 81,
+        "category": "Strict Boss",
+        "text": "The weather hijacked my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 82,
+        "category": "Work",
+        "text": "A wild pigeon set fire to my alarm ... what can you do, right?"
+    },
+    {
+        "id": 83,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... send help."
+    },
+    {
+        "id": 84,
+        "category": "Toxic Savage",
+        "text": "Listen, this sounds like a 'you' problem."
+    },
+    {
+        "id": 85,
+        "category": "Clingy Ex",
+        "text": "My dog froze my schedule ... send help."
+    },
+    {
+        "id": 86,
+        "category": "School",
+        "text": "A mysterious hacker set fire to my presentation ... send help."
+    },
+    {
+        "id": 87,
+        "category": "Work",
+        "text": "My phone refused to process the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 88,
+        "category": "Strict Boss",
+        "text": "A time traveler ate my presentation ... what can you do, right?"
+    },
+    {
+        "id": 89,
+        "category": "Relationships",
+        "text": "My phone refused to process my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 90,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... I'll try again tomorrow."
+    },
+    {
+        "id": 91,
+        "category": "Relationships",
+        "text": "The weather forgot about the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 92,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... let's just pretend this never happened."
+    },
+    {
+        "id": 93,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... what can you do, right?"
+    },
+    {
+        "id": 94,
+        "category": "School",
+        "text": "My phone accidentally sent to space the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 95,
+        "category": "Savage",
+        "text": "Listen, I'd rather stare at a wall."
+    },
+    {
+        "id": 96,
+        "category": "Strict Boss",
+        "text": "My cat deleted my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 97,
+        "category": "Relationships",
+        "text": "A mysterious hacker ran away with the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 98,
+        "category": "School",
+        "text": "My brain refused to process the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 99,
+        "category": "Clingy Ex",
+        "text": "A time traveler destroyed my keys ... send help."
+    },
+    {
+        "id": 100,
+        "category": "School",
+        "text": "The weather destroyed my keys ... send help."
+    },
+    {
+        "id": 101,
+        "category": "Toxic Savage",
+        "text": "To be brutally honest, I'd rather stare at a wall."
+    },
+    {
+        "id": 102,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... so yeah, I can't make it."
+    },
+    {
+        "id": 103,
+        "category": "Toxic Savage",
+        "text": "To be brutally honest, this sounds like a 'you' problem."
+    },
+    {
+        "id": 104,
+        "category": "Relationships",
+        "text": "My inner demon deleted my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 105,
+        "category": "Strict Boss",
+        "text": "My brain destroyed the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 106,
+        "category": "Clingy Ex",
+        "text": "An alien ate my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 107,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 108,
+        "category": "School",
+        "text": "A time traveler melted my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 109,
+        "category": "Work",
+        "text": "My laptop ate the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 110,
+        "category": "Work",
+        "text": "My brain accidentally sent to space my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 111,
+        "category": "Clingy Ex",
+        "text": "My internet router deleted my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 112,
+        "category": "Toxic Savage",
+        "text": "Look, I forgot you existed for a moment."
+    },
+    {
+        "id": 113,
+        "category": "School",
+        "text": "My laptop forgot about my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 114,
+        "category": "Strict Boss",
+        "text": "The weather melted the WiFi password ... send help."
+    },
+    {
+        "id": 115,
+        "category": "School",
+        "text": "My alarm clock refused to process the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 116,
+        "category": "Relationships",
+        "text": "My brain destroyed the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 117,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... I'll try again tomorrow."
+    },
+    {
+        "id": 118,
+        "category": "Clingy Ex",
+        "text": "My alarm clock melted the project files ... what can you do, right?"
+    },
+    {
+        "id": 119,
+        "category": "Savage",
+        "text": "Not gonna lie, I value my own time more than yours."
+    },
+    {
+        "id": 120,
+        "category": "Clingy Ex",
+        "text": "A time traveler froze my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 121,
+        "category": "Clingy Ex",
+        "text": "My alarm clock froze my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 122,
+        "category": "School",
+        "text": "My goldfish froze my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 123,
+        "category": "Clingy Ex",
+        "text": "My cat refused to process the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 124,
+        "category": "Clingy Ex",
+        "text": "My laptop destroyed my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 125,
+        "category": "Relationships",
+        "text": "A time traveler deleted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 126,
+        "category": "Clingy Ex",
+        "text": "My inner demon destroyed my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 127,
+        "category": "Relationships",
+        "text": "My internet router ate my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 128,
+        "category": "Work",
+        "text": "A wild pigeon destroyed my motivation ... what can you do, right?"
+    },
+    {
+        "id": 129,
+        "category": "Work",
+        "text": "My inner demon ran away with my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 130,
+        "category": "Work",
+        "text": "My phone forgot about my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 131,
+        "category": "Strict Boss",
+        "text": "My alarm clock ran away with my alarm ... send help."
+    },
+    {
+        "id": 132,
+        "category": "School",
+        "text": "My laptop froze my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 133,
+        "category": "Toxic Savage",
+        "text": "Look, I value my own time more than yours."
+    },
+    {
+        "id": 134,
+        "category": "Work",
+        "text": "My goldfish destroyed my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 135,
+        "category": "Relationships",
+        "text": "My cat deleted my presentation ... what can you do, right?"
+    },
+    {
+        "id": 136,
+        "category": "School",
+        "text": "A wild pigeon accidentally sent to space my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 137,
+        "category": "Relationships",
+        "text": "The neighbor's kid hijacked my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 138,
+        "category": "Relationships",
+        "text": "My laptop melted my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 139,
+        "category": "Clingy Ex",
+        "text": "My alarm clock accidentally sent to space the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 140,
+        "category": "School",
+        "text": "A wild pigeon destroyed my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 141,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 142,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... it's a tragedy, really."
+    },
+    {
+        "id": 143,
+        "category": "Clingy Ex",
+        "text": "My laptop ran away with my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 144,
+        "category": "Work",
+        "text": "A mysterious hacker froze the project files ... send help."
+    },
+    {
+        "id": 145,
+        "category": "Work",
+        "text": "An alien froze my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 146,
+        "category": "Toxic Savage",
+        "text": "Not gonna lie, I just didn't want to."
+    },
+    {
+        "id": 147,
+        "category": "Relationships",
+        "text": "A mysterious hacker accidentally sent to space my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 148,
+        "category": "Clingy Ex",
+        "text": "My internet router refused to process my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 149,
+        "category": "Relationships",
+        "text": "The weather hijacked the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 150,
+        "category": "Work",
+        "text": "My dog ran away with my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 151,
+        "category": "Work",
+        "text": "My phone ran away with my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 152,
+        "category": "Work",
+        "text": "My phone ran away with my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 153,
+        "category": "School",
+        "text": "My inner demon refused to process the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 154,
+        "category": "Strict Boss",
+        "text": "My internet router forgot about my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 155,
+        "category": "Relationships",
+        "text": "My cat hijacked my memory ... what can you do, right?"
+    },
+    {
+        "id": 156,
+        "category": "Work",
+        "text": "A time traveler deleted my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 157,
+        "category": "School",
+        "text": "An alien melted my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 158,
+        "category": "School",
+        "text": "My internet router deleted my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 159,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 160,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid forgot about my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 161,
+        "category": "Work",
+        "text": "My alarm clock forgot about my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 162,
+        "category": "School",
+        "text": "A wild pigeon froze my memory ... what can you do, right?"
+    },
+    {
+        "id": 163,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... what can you do, right?"
+    },
+    {
+        "id": 164,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid destroyed my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 165,
+        "category": "Work",
+        "text": "A mysterious hacker melted my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 166,
+        "category": "School",
+        "text": "My dog hijacked the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 167,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... send help."
+    },
+    {
+        "id": 168,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... I'll try again tomorrow."
+    },
+    {
+        "id": 169,
+        "category": "Clingy Ex",
+        "text": "My cat accidentally sent to space my alarm ... send help."
+    },
+    {
+        "id": 170,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid melted my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 171,
+        "category": "Strict Boss",
+        "text": "My inner demon deleted my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 172,
+        "category": "Work",
+        "text": "My internet router ate my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 173,
+        "category": "School",
+        "text": "My dog melted the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 174,
+        "category": "Strict Boss",
+        "text": "My laptop hijacked my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 175,
+        "category": "Work",
+        "text": "The neighbor's kid froze my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 176,
+        "category": "Relationships",
+        "text": "A wild pigeon refused to process my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 177,
+        "category": "School",
+        "text": "The weather forgot about my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 178,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... so yeah, I can't make it."
+    },
+    {
+        "id": 179,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 180,
+        "category": "Toxic Savage",
+        "text": "To be brutally honest, I forgot you existed for a moment."
+    },
+    {
+        "id": 181,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 182,
+        "category": "Strict Boss",
+        "text": "My internet router forgot about my presentation ... send help."
+    },
+    {
+        "id": 183,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... let's just pretend this never happened."
+    },
+    {
+        "id": 184,
+        "category": "Work",
+        "text": "My cat ran away with my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 185,
+        "category": "Clingy Ex",
+        "text": "An alien ate my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 186,
+        "category": "Savage",
+        "text": "Not gonna lie, I forgot you existed for a moment."
+    },
+    {
+        "id": 187,
+        "category": "Strict Boss",
+        "text": "The weather deleted the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 188,
+        "category": "Work",
+        "text": "A wild pigeon refused to process my keys ... send help."
+    },
+    {
+        "id": 189,
+        "category": "School",
+        "text": "My goldfish destroyed the project files ... send help."
+    },
+    {
+        "id": 190,
+        "category": "Strict Boss",
+        "text": "My brain accidentally sent to space my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 191,
+        "category": "Work",
+        "text": "An alien ran away with my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 192,
+        "category": "School",
+        "text": "My alarm clock melted my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 193,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... let's just pretend this never happened."
+    },
+    {
+        "id": 194,
+        "category": "Strict Boss",
+        "text": "My goldfish deleted my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 195,
+        "category": "Clingy Ex",
+        "text": "My alarm clock ate the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 196,
+        "category": "Work",
+        "text": "My goldfish froze my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 197,
+        "category": "Work",
+        "text": "My phone hijacked my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 198,
+        "category": "Work",
+        "text": "My alarm clock ran away with my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 199,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... I'll try again tomorrow."
+    },
+    {
+        "id": 200,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... I'll try again tomorrow."
+    },
+    {
+        "id": 201,
+        "category": "Introvert Problems",
+        "text": "The thought of interacting with humans right now is terrifying. ... so yeah, I can't make it."
+    },
+    {
+        "id": 202,
+        "category": "Relationships",
+        "text": "My cat froze my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 203,
+        "category": "School",
+        "text": "My alarm clock ate my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 204,
+        "category": "Relationships",
+        "text": "An alien melted the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 205,
+        "category": "Clingy Ex",
+        "text": "My inner demon destroyed my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 206,
+        "category": "School",
+        "text": "My laptop ate my motivation ... it's a tragedy, really."
+    },
+    {
+        "id": 207,
+        "category": "Work",
+        "text": "My inner demon ate my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 208,
+        "category": "Clingy Ex",
+        "text": "My brain deleted my alarm ... send help."
+    },
+    {
+        "id": 209,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker hijacked my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 210,
+        "category": "School",
+        "text": "My brain refused to process my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 211,
+        "category": "School",
+        "text": "An alien set fire to my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 212,
+        "category": "Strict Boss",
+        "text": "My dog melted my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 213,
+        "category": "Strict Boss",
+        "text": "A time traveler set fire to my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 214,
+        "category": "Clingy Ex",
+        "text": "A time traveler deleted my keys ... what can you do, right?"
+    },
+    {
+        "id": 215,
+        "category": "Savage",
+        "text": "Not gonna lie, I'd rather stare at a wall."
+    },
+    {
+        "id": 216,
+        "category": "Clingy Ex",
+        "text": "A time traveler accidentally sent to space my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 217,
+        "category": "Clingy Ex",
+        "text": "My brain refused to process my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 218,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... send help."
+    },
+    {
+        "id": 219,
+        "category": "Clingy Ex",
+        "text": "A time traveler destroyed my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 220,
+        "category": "School",
+        "text": "My dog forgot about my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 221,
+        "category": "Strict Boss",
+        "text": "My laptop accidentally sent to space the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 222,
+        "category": "School",
+        "text": "A wild pigeon forgot about my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 223,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon accidentally sent to space my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 224,
+        "category": "Toxic Savage",
+        "text": "Honestly, I forgot you existed for a moment."
+    },
+    {
+        "id": 225,
+        "category": "Relationships",
+        "text": "My goldfish forgot about my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 226,
+        "category": "Clingy Ex",
+        "text": "My phone froze my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 227,
+        "category": "Relationships",
+        "text": "A mysterious hacker forgot about my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 228,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... it's a tragedy, really."
+    },
+    {
+        "id": 229,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... send help."
+    },
+    {
+        "id": 230,
+        "category": "Strict Boss",
+        "text": "A wild pigeon forgot about the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 231,
+        "category": "Strict Boss",
+        "text": "A time traveler ran away with my presentation ... what can you do, right?"
+    },
+    {
+        "id": 232,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker deleted my homework ... send help."
+    },
+    {
+        "id": 233,
+        "category": "Relationships",
+        "text": "My phone froze my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 234,
+        "category": "Clingy Ex",
+        "text": "My brain forgot about the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 235,
+        "category": "School",
+        "text": "A mysterious hacker refused to process my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 236,
+        "category": "Relationships",
+        "text": "My dog froze my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 237,
+        "category": "Clingy Ex",
+        "text": "My laptop deleted my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 238,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... what can you do, right?"
+    },
+    {
+        "id": 239,
+        "category": "School",
+        "text": "My laptop set fire to my keys ... send help."
+    },
+    {
+        "id": 240,
+        "category": "Clingy Ex",
+        "text": "My dog ate the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 241,
+        "category": "Work",
+        "text": "My dog forgot about my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 242,
+        "category": "Strict Boss",
+        "text": "A wild pigeon accidentally sent to space the WiFi password ... send help."
+    },
+    {
+        "id": 243,
+        "category": "Strict Boss",
+        "text": "My phone hijacked my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 244,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... so yeah, I can't make it."
+    },
+    {
+        "id": 245,
+        "category": "Strict Boss",
+        "text": "My brain ate my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 246,
+        "category": "Strict Boss",
+        "text": "My cat refused to process my alarm ... what can you do, right?"
+    },
+    {
+        "id": 247,
+        "category": "Relationships",
+        "text": "My goldfish set fire to my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 248,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 249,
+        "category": "Strict Boss",
+        "text": "A time traveler destroyed my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 250,
+        "category": "Relationships",
+        "text": "My internet router froze the project files ... send help."
+    },
+    {
+        "id": 251,
+        "category": "Work",
+        "text": "My phone ate my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 252,
+        "category": "Relationships",
+        "text": "My inner demon set fire to my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 253,
+        "category": "School",
+        "text": "My brain forgot about my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 254,
+        "category": "Work",
+        "text": "My phone set fire to my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 255,
+        "category": "Work",
+        "text": "My internet router melted my memory ... send help."
+    },
+    {
+        "id": 256,
+        "category": "Strict Boss",
+        "text": "My brain hijacked my alarm ... what can you do, right?"
+    },
+    {
+        "id": 257,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid forgot about the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 258,
+        "category": "Relationships",
+        "text": "My brain accidentally sent to space the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 259,
+        "category": "Relationships",
+        "text": "My brain set fire to my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 260,
+        "category": "Clingy Ex",
+        "text": "An alien accidentally sent to space the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 261,
+        "category": "Relationships",
+        "text": "A mysterious hacker ran away with my alarm ... what can you do, right?"
+    },
+    {
+        "id": 262,
+        "category": "Relationships",
+        "text": "My alarm clock melted my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 263,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 264,
+        "category": "School",
+        "text": "My cat refused to process my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 265,
+        "category": "Work",
+        "text": "My goldfish hijacked my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 266,
+        "category": "Strict Boss",
+        "text": "An alien deleted the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 267,
+        "category": "Strict Boss",
+        "text": "My brain refused to process my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 268,
+        "category": "Relationships",
+        "text": "My dog refused to process my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 269,
+        "category": "School",
+        "text": "An alien forgot about the WiFi password ... send help."
+    },
+    {
+        "id": 270,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 271,
+        "category": "Strict Boss",
+        "text": "My dog deleted my alarm ... what can you do, right?"
+    },
+    {
+        "id": 272,
+        "category": "Relationships",
+        "text": "The weather refused to process my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 273,
+        "category": "Clingy Ex",
+        "text": "A time traveler forgot about my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 274,
+        "category": "Strict Boss",
+        "text": "My cat accidentally sent to space the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 275,
+        "category": "Strict Boss",
+        "text": "My cat destroyed my homework ... what can you do, right?"
+    },
+    {
+        "id": 276,
+        "category": "Clingy Ex",
+        "text": "My internet router refused to process my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 277,
+        "category": "Work",
+        "text": "My phone deleted my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 278,
+        "category": "Work",
+        "text": "My alarm clock froze my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 279,
+        "category": "Strict Boss",
+        "text": "My goldfish destroyed the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 280,
+        "category": "School",
+        "text": "My goldfish refused to process my presentation ... send help."
+    },
+    {
+        "id": 281,
+        "category": "Strict Boss",
+        "text": "My dog refused to process the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 282,
+        "category": "Strict Boss",
+        "text": "A wild pigeon froze my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 283,
+        "category": "Strict Boss",
+        "text": "My internet router melted my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 284,
+        "category": "School",
+        "text": "A time traveler set fire to my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 285,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... it's a tragedy, really."
+    },
+    {
+        "id": 286,
+        "category": "School",
+        "text": "My laptop set fire to the project files ... send help."
+    },
+    {
+        "id": 287,
+        "category": "Clingy Ex",
+        "text": "My dog forgot about my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 288,
+        "category": "Clingy Ex",
+        "text": "My phone ate my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 289,
+        "category": "Clingy Ex",
+        "text": "My goldfish accidentally sent to space the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 290,
+        "category": "Strict Boss",
+        "text": "A wild pigeon refused to process my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 291,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 292,
+        "category": "Work",
+        "text": "A wild pigeon deleted my memory ... what can you do, right?"
+    },
+    {
+        "id": 293,
+        "category": "Relationships",
+        "text": "A time traveler destroyed my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 294,
+        "category": "Clingy Ex",
+        "text": "My alarm clock destroyed my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 295,
+        "category": "Relationships",
+        "text": "An alien ran away with my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 296,
+        "category": "Work",
+        "text": "A time traveler refused to process my alarm ... what can you do, right?"
+    },
+    {
+        "id": 297,
+        "category": "School",
+        "text": "My phone ran away with my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 298,
+        "category": "School",
+        "text": "My alarm clock hijacked my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 299,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... let's just pretend this never happened."
+    },
+    {
+        "id": 300,
+        "category": "Work",
+        "text": "My brain set fire to my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 301,
+        "category": "Strict Boss",
+        "text": "My laptop refused to process my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 302,
+        "category": "Relationships",
+        "text": "A mysterious hacker refused to process my presentation ... what can you do, right?"
+    },
+    {
+        "id": 303,
+        "category": "Strict Boss",
+        "text": "My brain ran away with the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 304,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 305,
+        "category": "Work",
+        "text": "My goldfish accidentally sent to space my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 306,
+        "category": "Strict Boss",
+        "text": "My laptop melted my memory ... send help."
+    },
+    {
+        "id": 307,
+        "category": "Relationships",
+        "text": "My brain melted my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 308,
+        "category": "Clingy Ex",
+        "text": "My laptop hijacked my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 309,
+        "category": "Relationships",
+        "text": "My inner demon set fire to my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 310,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... so yeah, I can't make it."
+    },
+    {
+        "id": 311,
+        "category": "Work",
+        "text": "My alarm clock accidentally sent to space my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 312,
+        "category": "Relationships",
+        "text": "My goldfish set fire to my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 313,
+        "category": "Work",
+        "text": "My inner demon set fire to the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 314,
+        "category": "Relationships",
+        "text": "My brain hijacked my schedule ... what can you do, right?"
+    },
+    {
+        "id": 315,
+        "category": "School",
+        "text": "My phone set fire to my meeting link ... send help."
+    },
+    {
+        "id": 316,
+        "category": "Relationships",
+        "text": "My brain deleted the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 317,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker destroyed my schedule ... send help."
+    },
+    {
+        "id": 318,
+        "category": "School",
+        "text": "A mysterious hacker accidentally sent to space my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 319,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 320,
+        "category": "School",
+        "text": "My brain hijacked my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 321,
+        "category": "Relationships",
+        "text": "My internet router destroyed my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 322,
+        "category": "Relationships",
+        "text": "My internet router ran away with the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 323,
+        "category": "Work",
+        "text": "My internet router forgot about my schedule ... send help."
+    },
+    {
+        "id": 324,
+        "category": "Clingy Ex",
+        "text": "My brain froze the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 325,
+        "category": "Work",
+        "text": "My internet router ate the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 326,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 327,
+        "category": "Work",
+        "text": "A wild pigeon refused to process my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 328,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon destroyed the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 329,
+        "category": "Work",
+        "text": "My cat set fire to the WiFi password ... send help."
+    },
+    {
+        "id": 330,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid refused to process the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 331,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker forgot about my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 332,
+        "category": "Relationships",
+        "text": "My internet router accidentally sent to space my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 333,
+        "category": "Work",
+        "text": "A mysterious hacker hijacked the project files ... what can you do, right?"
+    },
+    {
+        "id": 334,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid forgot about the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 335,
+        "category": "School",
+        "text": "My goldfish froze my keys ... send help."
+    },
+    {
+        "id": 336,
+        "category": "Strict Boss",
+        "text": "My brain refused to process my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 337,
+        "category": "Relationships",
+        "text": "The neighbor's kid forgot about my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 338,
+        "category": "Work",
+        "text": "My phone ate my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 339,
+        "category": "Work",
+        "text": "A mysterious hacker deleted my motivation ... what can you do, right?"
+    },
+    {
+        "id": 340,
+        "category": "Relationships",
+        "text": "My phone destroyed the project files ... send help."
+    },
+    {
+        "id": 341,
+        "category": "Relationships",
+        "text": "My laptop froze my motivation ... what can you do, right?"
+    },
+    {
+        "id": 342,
+        "category": "School",
+        "text": "My dog froze my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 343,
+        "category": "Relationships",
+        "text": "My phone refused to process the project files ... send help."
+    },
+    {
+        "id": 344,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... I'll try again tomorrow."
+    },
+    {
+        "id": 345,
+        "category": "Relationships",
+        "text": "My inner demon deleted the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 346,
+        "category": "School",
+        "text": "My alarm clock accidentally sent to space my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 347,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon accidentally sent to space the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 348,
+        "category": "Relationships",
+        "text": "My phone melted my presentation ... send help."
+    },
+    {
+        "id": 349,
+        "category": "Relationships",
+        "text": "A wild pigeon forgot about my homework ... send help."
+    },
+    {
+        "id": 350,
+        "category": "Strict Boss",
+        "text": "My cat deleted my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 351,
+        "category": "Strict Boss",
+        "text": "My phone melted my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 352,
+        "category": "Work",
+        "text": "My brain refused to process my homework ... send help."
+    },
+    {
+        "id": 353,
+        "category": "Work",
+        "text": "My alarm clock froze my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 354,
+        "category": "Relationships",
+        "text": "My laptop set fire to my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 355,
+        "category": "Strict Boss",
+        "text": "A wild pigeon forgot about my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 356,
+        "category": "Work",
+        "text": "My phone ate my homework ... send help."
+    },
+    {
+        "id": 357,
+        "category": "Clingy Ex",
+        "text": "A time traveler melted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 358,
+        "category": "Relationships",
+        "text": "My alarm clock forgot about my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 359,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... it's a tragedy, really."
+    },
+    {
+        "id": 360,
+        "category": "Relationships",
+        "text": "A time traveler froze my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 361,
+        "category": "Work",
+        "text": "My brain ate the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 362,
+        "category": "Work",
+        "text": "My dog forgot about the project files ... send help."
+    },
+    {
+        "id": 363,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid deleted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 364,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... so yeah, I can't make it."
+    },
+    {
+        "id": 365,
+        "category": "Relationships",
+        "text": "The weather froze my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 366,
+        "category": "Clingy Ex",
+        "text": "My goldfish destroyed the project files ... what can you do, right?"
+    },
+    {
+        "id": 367,
+        "category": "Strict Boss",
+        "text": "My cat froze my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 368,
+        "category": "Strict Boss",
+        "text": "My internet router ate my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 369,
+        "category": "Relationships",
+        "text": "My cat deleted my keys ... send help."
+    },
+    {
+        "id": 370,
+        "category": "Strict Boss",
+        "text": "My cat forgot about my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 371,
+        "category": "Relationships",
+        "text": "My phone deleted my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 372,
+        "category": "Clingy Ex",
+        "text": "My inner demon refused to process my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 373,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... send help."
+    },
+    {
+        "id": 374,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker destroyed my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 375,
+        "category": "Work",
+        "text": "The weather ran away with my keys ... send help."
+    },
+    {
+        "id": 376,
+        "category": "Work",
+        "text": "The neighbor's kid set fire to the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 377,
+        "category": "School",
+        "text": "An alien forgot about my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 378,
+        "category": "Strict Boss",
+        "text": "My goldfish forgot about the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 379,
+        "category": "Strict Boss",
+        "text": "My cat deleted my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 380,
+        "category": "School",
+        "text": "My phone froze my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 381,
+        "category": "Relationships",
+        "text": "My phone hijacked my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 382,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 383,
+        "category": "Relationships",
+        "text": "My alarm clock froze my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 384,
+        "category": "Introvert Problems",
+        "text": "I need a 3-business-day recovery period from my last social interaction. ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 385,
+        "category": "Strict Boss",
+        "text": "My alarm clock set fire to my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 386,
+        "category": "Strict Boss",
+        "text": "My phone destroyed my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 387,
+        "category": "Work",
+        "text": "An alien destroyed the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 388,
+        "category": "Work",
+        "text": "My internet router accidentally sent to space the project files ... send help."
+    },
+    {
+        "id": 389,
+        "category": "Strict Boss",
+        "text": "A time traveler hijacked my alarm ... send help."
+    },
+    {
+        "id": 390,
+        "category": "School",
+        "text": "A mysterious hacker deleted my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 391,
+        "category": "Relationships",
+        "text": "An alien destroyed my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 392,
+        "category": "Strict Boss",
+        "text": "My inner demon ate the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 393,
+        "category": "School",
+        "text": "My laptop melted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 394,
+        "category": "Relationships",
+        "text": "A mysterious hacker refused to process my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 395,
+        "category": "School",
+        "text": "A time traveler froze the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 396,
+        "category": "Clingy Ex",
+        "text": "My inner demon ate my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 397,
+        "category": "Strict Boss",
+        "text": "My brain melted the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 398,
+        "category": "Relationships",
+        "text": "The neighbor's kid ate my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 399,
+        "category": "Work",
+        "text": "A mysterious hacker set fire to my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 400,
+        "category": "Strict Boss",
+        "text": "A wild pigeon ate my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 401,
+        "category": "Clingy Ex",
+        "text": "My internet router hijacked my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 402,
+        "category": "School",
+        "text": "A mysterious hacker deleted my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 403,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon ate my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 404,
+        "category": "School",
+        "text": "The weather accidentally sent to space the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 405,
+        "category": "School",
+        "text": "The neighbor's kid ran away with the WiFi password ... send help."
+    },
+    {
+        "id": 406,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 407,
+        "category": "School",
+        "text": "My laptop forgot about my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 408,
+        "category": "Relationships",
+        "text": "A mysterious hacker destroyed my keys ... what can you do, right?"
+    },
+    {
+        "id": 409,
+        "category": "Clingy Ex",
+        "text": "My internet router destroyed the project files ... what can you do, right?"
+    },
+    {
+        "id": 410,
+        "category": "Relationships",
+        "text": "My laptop ran away with my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 411,
+        "category": "Work",
+        "text": "My dog accidentally sent to space my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 412,
+        "category": "School",
+        "text": "The neighbor's kid ate my homework ... what can you do, right?"
+    },
+    {
+        "id": 413,
+        "category": "Relationships",
+        "text": "An alien set fire to my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 414,
+        "category": "Clingy Ex",
+        "text": "The weather ate the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 415,
+        "category": "Relationships",
+        "text": "My cat destroyed my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 416,
+        "category": "Relationships",
+        "text": "My internet router ran away with the project files ... send help."
+    },
+    {
+        "id": 417,
+        "category": "Strict Boss",
+        "text": "My internet router refused to process my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 418,
+        "category": "Relationships",
+        "text": "My goldfish hijacked my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 419,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid ate my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 420,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid melted the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 421,
+        "category": "Relationships",
+        "text": "My inner demon deleted my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 422,
+        "category": "Strict Boss",
+        "text": "My alarm clock froze the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 423,
+        "category": "School",
+        "text": "My cat forgot about the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 424,
+        "category": "Clingy Ex",
+        "text": "My brain ate the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 425,
+        "category": "Clingy Ex",
+        "text": "My dog froze my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 426,
+        "category": "Relationships",
+        "text": "The neighbor's kid ate my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 427,
+        "category": "School",
+        "text": "My inner demon melted my homework ... what can you do, right?"
+    },
+    {
+        "id": 428,
+        "category": "Strict Boss",
+        "text": "My dog accidentally sent to space my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 429,
+        "category": "School",
+        "text": "My cat destroyed my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 430,
+        "category": "Clingy Ex",
+        "text": "My inner demon set fire to my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 431,
+        "category": "School",
+        "text": "An alien froze my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 432,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker accidentally sent to space the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 433,
+        "category": "Work",
+        "text": "An alien deleted my alarm ... send help."
+    },
+    {
+        "id": 434,
+        "category": "Clingy Ex",
+        "text": "My dog forgot about the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 435,
+        "category": "Strict Boss",
+        "text": "My internet router ran away with my memory ... what can you do, right?"
+    },
+    {
+        "id": 436,
+        "category": "Relationships",
+        "text": "My inner demon accidentally sent to space my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 437,
+        "category": "Strict Boss",
+        "text": "My alarm clock forgot about my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 438,
+        "category": "Strict Boss",
+        "text": "My inner demon destroyed the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 439,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid forgot about my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 440,
+        "category": "Clingy Ex",
+        "text": "My brain ran away with my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 441,
+        "category": "School",
+        "text": "My phone set fire to my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 442,
+        "category": "Relationships",
+        "text": "My dog forgot about my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 443,
+        "category": "Clingy Ex",
+        "text": "The weather ran away with my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 444,
+        "category": "Relationships",
+        "text": "A wild pigeon destroyed my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 445,
+        "category": "Work",
+        "text": "My internet router forgot about my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 446,
+        "category": "School",
+        "text": "My brain set fire to the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 447,
+        "category": "Strict Boss",
+        "text": "My laptop hijacked my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 448,
+        "category": "Work",
+        "text": "My dog ate my homework ... send help."
+    },
+    {
+        "id": 449,
+        "category": "Clingy Ex",
+        "text": "My phone ate my memory ... what can you do, right?"
+    },
+    {
+        "id": 450,
+        "category": "School",
+        "text": "The weather forgot about my schedule ... send help."
+    },
+    {
+        "id": 451,
+        "category": "Clingy Ex",
+        "text": "My phone set fire to my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 452,
+        "category": "Work",
+        "text": "An alien destroyed my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 453,
+        "category": "Strict Boss",
+        "text": "My laptop ate my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 454,
+        "category": "School",
+        "text": "The neighbor's kid accidentally sent to space the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 455,
+        "category": "Strict Boss",
+        "text": "My internet router ran away with my homework ... what can you do, right?"
+    },
+    {
+        "id": 456,
+        "category": "Relationships",
+        "text": "My laptop accidentally sent to space my motivation ... what can you do, right?"
+    },
+    {
+        "id": 457,
+        "category": "Strict Boss",
+        "text": "My alarm clock set fire to my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 458,
+        "category": "Work",
+        "text": "The weather forgot about my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 459,
+        "category": "Clingy Ex",
+        "text": "My brain froze the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 460,
+        "category": "Work",
+        "text": "My brain accidentally sent to space my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 461,
+        "category": "Clingy Ex",
+        "text": "My goldfish hijacked my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 462,
+        "category": "Strict Boss",
+        "text": "My phone froze my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 463,
+        "category": "School",
+        "text": "My dog ate my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 464,
+        "category": "Relationships",
+        "text": "A mysterious hacker set fire to my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 465,
+        "category": "Strict Boss",
+        "text": "My laptop hijacked my homework ... send help."
+    },
+    {
+        "id": 466,
+        "category": "Work",
+        "text": "My dog froze my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 467,
+        "category": "Relationships",
+        "text": "The neighbor's kid hijacked my keys ... what can you do, right?"
+    },
+    {
+        "id": 468,
+        "category": "Clingy Ex",
+        "text": "A time traveler refused to process my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 469,
+        "category": "School",
+        "text": "The neighbor's kid set fire to my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 470,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon hijacked my meeting link ... send help."
+    },
+    {
+        "id": 471,
+        "category": "Relationships",
+        "text": "My laptop destroyed my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 472,
+        "category": "Relationships",
+        "text": "My goldfish refused to process my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 473,
+        "category": "Relationships",
+        "text": "My cat ate the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 474,
+        "category": "School",
+        "text": "A wild pigeon forgot about my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 475,
+        "category": "School",
+        "text": "My alarm clock hijacked my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 476,
+        "category": "Work",
+        "text": "A mysterious hacker forgot about my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 477,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... I'll try again tomorrow."
+    },
+    {
+        "id": 478,
+        "category": "School",
+        "text": "My dog froze my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 479,
+        "category": "School",
+        "text": "The neighbor's kid refused to process the project files ... what can you do, right?"
+    },
+    {
+        "id": 480,
+        "category": "Tech Issues",
+        "text": "A ghost in the machine is preventing me from logging in. ... it's a tragedy, really."
+    },
+    {
+        "id": 481,
+        "category": "Relationships",
+        "text": "The weather set fire to my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 482,
+        "category": "Clingy Ex",
+        "text": "My goldfish froze my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 483,
+        "category": "School",
+        "text": "A wild pigeon froze my alarm ... send help."
+    },
+    {
+        "id": 484,
+        "category": "School",
+        "text": "The weather forgot about my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 485,
+        "category": "Strict Boss",
+        "text": "My cat set fire to my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 486,
+        "category": "Work",
+        "text": "A time traveler forgot about my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 487,
+        "category": "Strict Boss",
+        "text": "My internet router deleted my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 488,
+        "category": "Clingy Ex",
+        "text": "My brain accidentally sent to space my schedule ... what can you do, right?"
+    },
+    {
+        "id": 489,
+        "category": "Work",
+        "text": "My dog froze my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 490,
+        "category": "Relationships",
+        "text": "My brain destroyed my memory ... what can you do, right?"
+    },
+    {
+        "id": 491,
+        "category": "School",
+        "text": "A wild pigeon forgot about my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 492,
+        "category": "Relationships",
+        "text": "A wild pigeon hijacked my keys ... send help."
+    },
+    {
+        "id": 493,
+        "category": "Work",
+        "text": "My inner demon deleted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 494,
+        "category": "Strict Boss",
+        "text": "My cat forgot about my alarm ... it's a tragedy, really."
+    },
+    {
+        "id": 495,
+        "category": "Work",
+        "text": "My phone deleted my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 496,
+        "category": "Strict Boss",
+        "text": "A time traveler melted my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 497,
+        "category": "Strict Boss",
+        "text": "My brain forgot about my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 498,
+        "category": "Strict Boss",
+        "text": "My brain deleted my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 499,
+        "category": "School",
+        "text": "My dog destroyed my alarm ... what can you do, right?"
+    },
+    {
+        "id": 500,
+        "category": "Strict Boss",
+        "text": "A time traveler set fire to the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 501,
+        "category": "Strict Boss",
+        "text": "A wild pigeon deleted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 502,
+        "category": "Work",
+        "text": "My dog refused to process the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 503,
+        "category": "School",
+        "text": "An alien melted my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 504,
+        "category": "Strict Boss",
+        "text": "My inner demon hijacked my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 505,
+        "category": "Strict Boss",
+        "text": "My inner demon ate my meeting link ... send help."
+    },
+    {
+        "id": 506,
+        "category": "Relationships",
+        "text": "My internet router refused to process my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 507,
+        "category": "Strict Boss",
+        "text": "A time traveler forgot about the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 508,
+        "category": "Introvert Problems",
+        "text": "My social battery is at 1%. ... what can you do, right?"
+    },
+    {
+        "id": 509,
+        "category": "Relationships",
+        "text": "My brain ate the project files ... what can you do, right?"
+    },
+    {
+        "id": 510,
+        "category": "Clingy Ex",
+        "text": "My brain ate my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 511,
+        "category": "Relationships",
+        "text": "My laptop destroyed my homework ... what can you do, right?"
+    },
+    {
+        "id": 512,
+        "category": "Relationships",
+        "text": "My cat forgot about my presentation ... send help."
+    },
+    {
+        "id": 513,
+        "category": "Strict Boss",
+        "text": "My brain set fire to my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 514,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 515,
+        "category": "Clingy Ex",
+        "text": "The weather set fire to my motivation ... send help."
+    },
+    {
+        "id": 516,
+        "category": "School",
+        "text": "A mysterious hacker froze my schedule ... send help."
+    },
+    {
+        "id": 517,
+        "category": "Clingy Ex",
+        "text": "An alien forgot about my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 518,
+        "category": "Clingy Ex",
+        "text": "My laptop hijacked my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 519,
+        "category": "School",
+        "text": "A mysterious hacker accidentally sent to space my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 520,
+        "category": "Relationships",
+        "text": "A wild pigeon ate my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 521,
+        "category": "School",
+        "text": "A time traveler ran away with my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 522,
+        "category": "Relationships",
+        "text": "My goldfish destroyed my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 523,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid hijacked my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 524,
+        "category": "Clingy Ex",
+        "text": "The weather accidentally sent to space my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 525,
+        "category": "Clingy Ex",
+        "text": "An alien set fire to the project files ... what can you do, right?"
+    },
+    {
+        "id": 526,
+        "category": "Strict Boss",
+        "text": "My inner demon ate my presentation ... send help."
+    },
+    {
+        "id": 527,
+        "category": "Work",
+        "text": "My inner demon ate my alarm ... what can you do, right?"
+    },
+    {
+        "id": 528,
+        "category": "Work",
+        "text": "A wild pigeon refused to process my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 529,
+        "category": "Relationships",
+        "text": "My dog ate my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 530,
+        "category": "School",
+        "text": "My alarm clock accidentally sent to space my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 531,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 532,
+        "category": "Work",
+        "text": "My phone refused to process my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 533,
+        "category": "Work",
+        "text": "A mysterious hacker forgot about my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 534,
+        "category": "School",
+        "text": "My dog ran away with the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 535,
+        "category": "Work",
+        "text": "My internet router destroyed the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 536,
+        "category": "Relationships",
+        "text": "A mysterious hacker destroyed my motivation ... it's a tragedy, really."
+    },
+    {
+        "id": 537,
+        "category": "Work",
+        "text": "My goldfish destroyed my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 538,
+        "category": "Work",
+        "text": "My internet router froze my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 539,
+        "category": "Work",
+        "text": "The neighbor's kid refused to process my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 540,
+        "category": "Relationships",
+        "text": "My internet router refused to process the project files ... send help."
+    },
+    {
+        "id": 541,
+        "category": "Strict Boss",
+        "text": "An alien forgot about my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 542,
+        "category": "Work",
+        "text": "A mysterious hacker hijacked my memory ... send help."
+    },
+    {
+        "id": 543,
+        "category": "Strict Boss",
+        "text": "My brain melted my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 544,
+        "category": "Clingy Ex",
+        "text": "My goldfish destroyed my alarm ... send help."
+    },
+    {
+        "id": 545,
+        "category": "Relationships",
+        "text": "My alarm clock deleted my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 546,
+        "category": "Strict Boss",
+        "text": "My internet router set fire to the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 547,
+        "category": "Work",
+        "text": "My laptop destroyed my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 548,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 549,
+        "category": "Relationships",
+        "text": "An alien set fire to my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 550,
+        "category": "Relationships",
+        "text": "My brain refused to process the project files ... send help."
+    },
+    {
+        "id": 551,
+        "category": "School",
+        "text": "My internet router froze the WiFi password ... send help."
+    },
+    {
+        "id": 552,
+        "category": "School",
+        "text": "A time traveler destroyed my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 553,
+        "category": "Work",
+        "text": "My cat set fire to my motivation ... send help."
+    },
+    {
+        "id": 554,
+        "category": "Work",
+        "text": "The neighbor's kid hijacked my homework ... what can you do, right?"
+    },
+    {
+        "id": 555,
+        "category": "Clingy Ex",
+        "text": "My goldfish deleted my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 556,
+        "category": "Work",
+        "text": "My phone set fire to my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 557,
+        "category": "School",
+        "text": "My brain deleted my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 558,
+        "category": "Work",
+        "text": "My dog deleted my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 559,
+        "category": "School",
+        "text": "My phone ate my schedule ... what can you do, right?"
+    },
+    {
+        "id": 560,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid froze my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 561,
+        "category": "Work",
+        "text": "My brain deleted my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 562,
+        "category": "School",
+        "text": "A time traveler ran away with my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 563,
+        "category": "Work",
+        "text": "My dog froze my presentation ... send help."
+    },
+    {
+        "id": 564,
+        "category": "Work",
+        "text": "My brain ran away with my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 565,
+        "category": "Work",
+        "text": "My alarm clock froze the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 566,
+        "category": "School",
+        "text": "My goldfish deleted my keys ... what can you do, right?"
+    },
+    {
+        "id": 567,
+        "category": "School",
+        "text": "The weather ran away with my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 568,
+        "category": "Strict Boss",
+        "text": "My internet router hijacked my alarm ... send help."
+    },
+    {
+        "id": 569,
+        "category": "Work",
+        "text": "My inner demon set fire to the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 570,
+        "category": "Clingy Ex",
+        "text": "My laptop hijacked my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 571,
+        "category": "Strict Boss",
+        "text": "A wild pigeon deleted my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 572,
+        "category": "School",
+        "text": "A wild pigeon accidentally sent to space my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 573,
+        "category": "Work",
+        "text": "My cat hijacked my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 574,
+        "category": "School",
+        "text": "A mysterious hacker destroyed my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 575,
+        "category": "Relationships",
+        "text": "My alarm clock destroyed the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 576,
+        "category": "Relationships",
+        "text": "My goldfish set fire to my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 577,
+        "category": "Work",
+        "text": "My phone refused to process my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 578,
+        "category": "Relationships",
+        "text": "The neighbor's kid set fire to my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 579,
+        "category": "Relationships",
+        "text": "An alien ate my presentation ... what can you do, right?"
+    },
+    {
+        "id": 580,
+        "category": "Work",
+        "text": "A mysterious hacker destroyed my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 581,
+        "category": "Relationships",
+        "text": "The neighbor's kid hijacked my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 582,
+        "category": "Relationships",
+        "text": "My laptop accidentally sent to space my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 583,
+        "category": "Strict Boss",
+        "text": "An alien froze the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 584,
+        "category": "Relationships",
+        "text": "My internet router accidentally sent to space the WiFi password ... send help."
+    },
+    {
+        "id": 585,
+        "category": "Strict Boss",
+        "text": "My brain ate the project files ... send help."
+    },
+    {
+        "id": 586,
+        "category": "School",
+        "text": "The neighbor's kid forgot about the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 587,
+        "category": "School",
+        "text": "The neighbor's kid refused to process the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 588,
+        "category": "School",
+        "text": "My phone forgot about my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 589,
+        "category": "Strict Boss",
+        "text": "My goldfish set fire to my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 590,
+        "category": "Work",
+        "text": "The weather refused to process my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 591,
+        "category": "Relationships",
+        "text": "An alien deleted my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 592,
+        "category": "Strict Boss",
+        "text": "My alarm clock ran away with my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 593,
+        "category": "Clingy Ex",
+        "text": "My brain set fire to my memory ... what can you do, right?"
+    },
+    {
+        "id": 594,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker ran away with my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 595,
+        "category": "Clingy Ex",
+        "text": "My alarm clock ran away with my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 596,
+        "category": "School",
+        "text": "My cat ate my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 597,
+        "category": "School",
+        "text": "My cat hijacked the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 598,
+        "category": "Strict Boss",
+        "text": "A time traveler melted my schedule ... send help."
+    },
+    {
+        "id": 599,
+        "category": "Relationships",
+        "text": "A time traveler froze my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 600,
+        "category": "Work",
+        "text": "The neighbor's kid destroyed the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 601,
+        "category": "Relationships",
+        "text": "A time traveler deleted the WiFi password ... send help."
+    },
+    {
+        "id": 602,
+        "category": "Work",
+        "text": "My inner demon refused to process my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 603,
+        "category": "Strict Boss",
+        "text": "An alien deleted my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 604,
+        "category": "Work",
+        "text": "My dog accidentally sent to space my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 605,
+        "category": "Work",
+        "text": "My cat froze the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 606,
+        "category": "Work",
+        "text": "My cat froze my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 607,
+        "category": "Strict Boss",
+        "text": "My inner demon melted my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 608,
+        "category": "Clingy Ex",
+        "text": "My phone froze the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 609,
+        "category": "Clingy Ex",
+        "text": "A time traveler froze the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 610,
+        "category": "School",
+        "text": "My laptop froze the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 611,
+        "category": "Relationships",
+        "text": "My dog hijacked my homework ... send help."
+    },
+    {
+        "id": 612,
+        "category": "Strict Boss",
+        "text": "My brain ate the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 613,
+        "category": "Strict Boss",
+        "text": "A time traveler froze my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 614,
+        "category": "Strict Boss",
+        "text": "My phone destroyed my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 615,
+        "category": "Relationships",
+        "text": "My internet router melted my schedule ... send help."
+    },
+    {
+        "id": 616,
+        "category": "Work",
+        "text": "A mysterious hacker deleted my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 617,
+        "category": "Strict Boss",
+        "text": "My phone set fire to the project files ... what can you do, right?"
+    },
+    {
+        "id": 618,
+        "category": "School",
+        "text": "My inner demon deleted my schedule ... send help."
+    },
+    {
+        "id": 619,
+        "category": "Relationships",
+        "text": "My dog accidentally sent to space the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 620,
+        "category": "Work",
+        "text": "My inner demon melted my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 621,
+        "category": "School",
+        "text": "My cat set fire to the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 622,
+        "category": "Work",
+        "text": "My inner demon melted my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 623,
+        "category": "School",
+        "text": "The neighbor's kid melted my schedule ... what can you do, right?"
+    },
+    {
+        "id": 624,
+        "category": "Relationships",
+        "text": "The weather destroyed my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 625,
+        "category": "Clingy Ex",
+        "text": "My internet router melted the WiFi password ... it's a tragedy, really."
+    },
+    {
+        "id": 626,
+        "category": "School",
+        "text": "A mysterious hacker deleted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 627,
+        "category": "School",
+        "text": "The weather set fire to my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 628,
+        "category": "Relationships",
+        "text": "My internet router froze my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 629,
+        "category": "Relationships",
+        "text": "A time traveler set fire to my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 630,
+        "category": "Strict Boss",
+        "text": "My dog melted my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 631,
+        "category": "Work",
+        "text": "A time traveler ran away with my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 632,
+        "category": "Clingy Ex",
+        "text": "My goldfish set fire to my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 633,
+        "category": "Relationships",
+        "text": "A time traveler melted my presentation ... what can you do, right?"
+    },
+    {
+        "id": 634,
+        "category": "Clingy Ex",
+        "text": "My phone deleted my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 635,
+        "category": "Clingy Ex",
+        "text": "The weather refused to process my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 636,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 637,
+        "category": "School",
+        "text": "A mysterious hacker accidentally sent to space my motivation ... send help."
+    },
+    {
+        "id": 638,
+        "category": "School",
+        "text": "My internet router accidentally sent to space my keys ... send help."
+    },
+    {
+        "id": 639,
+        "category": "Clingy Ex",
+        "text": "My cat ran away with my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 640,
+        "category": "Relationships",
+        "text": "My alarm clock deleted the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 641,
+        "category": "Strict Boss",
+        "text": "My dog destroyed my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 642,
+        "category": "Tech Issues",
+        "text": "My WiFi has decided to strike. ... I'll try again tomorrow."
+    },
+    {
+        "id": 643,
+        "category": "School",
+        "text": "An alien refused to process my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 644,
+        "category": "Work",
+        "text": "My phone deleted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 645,
+        "category": "Strict Boss",
+        "text": "My phone set fire to my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 646,
+        "category": "School",
+        "text": "A mysterious hacker hijacked my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 647,
+        "category": "Work",
+        "text": "The neighbor's kid ate the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 648,
+        "category": "Relationships",
+        "text": "My internet router froze my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 649,
+        "category": "School",
+        "text": "The neighbor's kid deleted my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 650,
+        "category": "Work",
+        "text": "A mysterious hacker refused to process my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 651,
+        "category": "School",
+        "text": "My inner demon accidentally sent to space my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 652,
+        "category": "Clingy Ex",
+        "text": "My cat refused to process my motivation ... send help."
+    },
+    {
+        "id": 653,
+        "category": "Work",
+        "text": "The neighbor's kid melted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 654,
+        "category": "Clingy Ex",
+        "text": "An alien ran away with my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 655,
+        "category": "Work",
+        "text": "My internet router froze my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 656,
+        "category": "Strict Boss",
+        "text": "My dog ran away with my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 657,
+        "category": "Work",
+        "text": "A time traveler ran away with my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 658,
+        "category": "Strict Boss",
+        "text": "A time traveler set fire to my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 659,
+        "category": "Work",
+        "text": "My goldfish set fire to my schedule ... send help."
+    },
+    {
+        "id": 660,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker forgot about my keys ... send help."
+    },
+    {
+        "id": 661,
+        "category": "Work",
+        "text": "My phone hijacked my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 662,
+        "category": "Relationships",
+        "text": "My cat melted my memory ... what can you do, right?"
+    },
+    {
+        "id": 663,
+        "category": "Relationships",
+        "text": "My goldfish deleted my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 664,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker refused to process the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 665,
+        "category": "Work",
+        "text": "My cat melted my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 666,
+        "category": "School",
+        "text": "My inner demon melted my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 667,
+        "category": "School",
+        "text": "A wild pigeon melted my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 668,
+        "category": "Relationships",
+        "text": "An alien melted my homework ... what can you do, right?"
+    },
+    {
+        "id": 669,
+        "category": "School",
+        "text": "A mysterious hacker melted my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 670,
+        "category": "Strict Boss",
+        "text": "A wild pigeon destroyed my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 671,
+        "category": "School",
+        "text": "A mysterious hacker accidentally sent to space my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 672,
+        "category": "Tech Issues",
+        "text": "My laptop is currently updating and is stuck at 99%. ... it's a tragedy, really."
+    },
+    {
+        "id": 673,
+        "category": "Relationships",
+        "text": "The weather deleted my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 674,
+        "category": "Strict Boss",
+        "text": "The weather deleted my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 675,
+        "category": "Relationships",
+        "text": "My goldfish ran away with my presentation ... send help."
+    },
+    {
+        "id": 676,
+        "category": "Clingy Ex",
+        "text": "My phone hijacked my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 677,
+        "category": "Relationships",
+        "text": "My cat forgot about the project files ... send help."
+    },
+    {
+        "id": 678,
+        "category": "Clingy Ex",
+        "text": "The weather set fire to my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 679,
+        "category": "Strict Boss",
+        "text": "My internet router hijacked my keys ... what can you do, right?"
+    },
+    {
+        "id": 680,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker accidentally sent to space my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 681,
+        "category": "Clingy Ex",
+        "text": "A time traveler ate my keys ... send help."
+    },
+    {
+        "id": 682,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid melted my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 683,
+        "category": "Relationships",
+        "text": "My goldfish ate my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 684,
+        "category": "Clingy Ex",
+        "text": "My inner demon froze my alarm ... send help."
+    },
+    {
+        "id": 685,
+        "category": "Clingy Ex",
+        "text": "My phone refused to process my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 686,
+        "category": "Clingy Ex",
+        "text": "My dog destroyed my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 687,
+        "category": "Clingy Ex",
+        "text": "My laptop set fire to my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 688,
+        "category": "Relationships",
+        "text": "My phone hijacked my alarm ... send help."
+    },
+    {
+        "id": 689,
+        "category": "Strict Boss",
+        "text": "My brain ate my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 690,
+        "category": "School",
+        "text": "My alarm clock melted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 691,
+        "category": "Clingy Ex",
+        "text": "My alarm clock deleted my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 692,
+        "category": "Strict Boss",
+        "text": "My inner demon deleted my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 693,
+        "category": "Strict Boss",
+        "text": "My cat set fire to the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 694,
+        "category": "School",
+        "text": "My phone refused to process the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 695,
+        "category": "Relationships",
+        "text": "The weather destroyed the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 696,
+        "category": "School",
+        "text": "My inner demon refused to process my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 697,
+        "category": "School",
+        "text": "My cat melted my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 698,
+        "category": "School",
+        "text": "A mysterious hacker melted my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 699,
+        "category": "Relationships",
+        "text": "My goldfish destroyed my meeting link ... send help."
+    },
+    {
+        "id": 700,
+        "category": "Work",
+        "text": "My internet router set fire to my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 701,
+        "category": "School",
+        "text": "A wild pigeon melted my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 702,
+        "category": "Strict Boss",
+        "text": "A wild pigeon set fire to my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 703,
+        "category": "Work",
+        "text": "A wild pigeon froze my memory ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 704,
+        "category": "Relationships",
+        "text": "A time traveler forgot about the project files ... send help."
+    },
+    {
+        "id": 705,
+        "category": "Strict Boss",
+        "text": "An alien froze my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 706,
+        "category": "Strict Boss",
+        "text": "My internet router ate my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 707,
+        "category": "Work",
+        "text": "The neighbor's kid forgot about my alarm ... send help."
+    },
+    {
+        "id": 708,
+        "category": "Strict Boss",
+        "text": "My cat forgot about my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 709,
+        "category": "School",
+        "text": "My phone ate my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 710,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid refused to process my homework ... what can you do, right?"
+    },
+    {
+        "id": 711,
+        "category": "Relationships",
+        "text": "A mysterious hacker set fire to my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 712,
+        "category": "Work",
+        "text": "A wild pigeon destroyed my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 713,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked my alarm ... it's a tragedy, really."
+    },
+    {
+        "id": 714,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid set fire to my alarm ... what can you do, right?"
+    },
+    {
+        "id": 715,
+        "category": "Work",
+        "text": "My alarm clock melted my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 716,
+        "category": "Strict Boss",
+        "text": "My cat froze my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 717,
+        "category": "Work",
+        "text": "A wild pigeon accidentally sent to space my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 718,
+        "category": "Strict Boss",
+        "text": "My alarm clock ate the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 719,
+        "category": "School",
+        "text": "My laptop ran away with my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 720,
+        "category": "Strict Boss",
+        "text": "A wild pigeon ran away with my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 721,
+        "category": "Relationships",
+        "text": "A wild pigeon forgot about my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 722,
+        "category": "Strict Boss",
+        "text": "My inner demon destroyed my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 723,
+        "category": "Strict Boss",
+        "text": "My goldfish deleted the WiFi password ... send help."
+    },
+    {
+        "id": 724,
+        "category": "School",
+        "text": "My dog ate my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 725,
+        "category": "Work",
+        "text": "My internet router destroyed my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 726,
+        "category": "Clingy Ex",
+        "text": "My dog deleted my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 727,
+        "category": "Strict Boss",
+        "text": "My laptop ate my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 728,
+        "category": "Relationships",
+        "text": "My inner demon melted my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 729,
+        "category": "Strict Boss",
+        "text": "My goldfish deleted the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 730,
+        "category": "Clingy Ex",
+        "text": "My goldfish ate my presentation ... what can you do, right?"
+    },
+    {
+        "id": 731,
+        "category": "Relationships",
+        "text": "My inner demon froze the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 732,
+        "category": "Work",
+        "text": "My inner demon ate my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 733,
+        "category": "Introvert Problems",
+        "text": "I tried to leave the house but my bed held me hostage. ... so yeah, I can't make it."
+    },
+    {
+        "id": 734,
+        "category": "Strict Boss",
+        "text": "My dog deleted the WiFi password ... send help."
+    },
+    {
+        "id": 735,
+        "category": "Clingy Ex",
+        "text": "My cat deleted my motivation ... send help."
+    },
+    {
+        "id": 736,
+        "category": "Strict Boss",
+        "text": "My inner demon hijacked my memory ... what can you do, right?"
+    },
+    {
+        "id": 737,
+        "category": "Strict Boss",
+        "text": "A time traveler ran away with the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 738,
+        "category": "Work",
+        "text": "A wild pigeon deleted my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 739,
+        "category": "Work",
+        "text": "My laptop set fire to my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 740,
+        "category": "Work",
+        "text": "My inner demon deleted my motivation ... it's a tragedy, really."
+    },
+    {
+        "id": 741,
+        "category": "Clingy Ex",
+        "text": "An alien ran away with my homework ... what can you do, right?"
+    },
+    {
+        "id": 742,
+        "category": "Strict Boss",
+        "text": "My dog ran away with my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 743,
+        "category": "Relationships",
+        "text": "A wild pigeon forgot about my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 744,
+        "category": "Clingy Ex",
+        "text": "My cat hijacked my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 745,
+        "category": "School",
+        "text": "My inner demon melted my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 746,
+        "category": "School",
+        "text": "A time traveler ran away with my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 747,
+        "category": "Work",
+        "text": "The neighbor's kid hijacked my memory ... what can you do, right?"
+    },
+    {
+        "id": 748,
+        "category": "Clingy Ex",
+        "text": "My alarm clock destroyed the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 749,
+        "category": "Work",
+        "text": "The neighbor's kid forgot about my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 750,
+        "category": "School",
+        "text": "A mysterious hacker forgot about my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 751,
+        "category": "Clingy Ex",
+        "text": "My laptop accidentally sent to space my motivation ... it's a tragedy, really."
+    },
+    {
+        "id": 752,
+        "category": "Clingy Ex",
+        "text": "My alarm clock hijacked the project files ... what can you do, right?"
+    },
+    {
+        "id": 753,
+        "category": "Relationships",
+        "text": "My phone accidentally sent to space my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 754,
+        "category": "School",
+        "text": "My internet router refused to process my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 755,
+        "category": "Strict Boss",
+        "text": "A wild pigeon froze the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 756,
+        "category": "Work",
+        "text": "My phone ate my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 757,
+        "category": "School",
+        "text": "My goldfish refused to process my alarm ... send help."
+    },
+    {
+        "id": 758,
+        "category": "Clingy Ex",
+        "text": "My internet router destroyed my alarm ... send help."
+    },
+    {
+        "id": 759,
+        "category": "Clingy Ex",
+        "text": "My internet router froze the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 760,
+        "category": "Strict Boss",
+        "text": "My dog deleted my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 761,
+        "category": "Relationships",
+        "text": "A time traveler destroyed my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 762,
+        "category": "Strict Boss",
+        "text": "My dog destroyed my presentation ... send help."
+    },
+    {
+        "id": 763,
+        "category": "Clingy Ex",
+        "text": "My goldfish set fire to my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 764,
+        "category": "Work",
+        "text": "My internet router froze my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 765,
+        "category": "Clingy Ex",
+        "text": "My brain ran away with my homework ... send help."
+    },
+    {
+        "id": 766,
+        "category": "Clingy Ex",
+        "text": "My goldfish deleted the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 767,
+        "category": "Relationships",
+        "text": "My laptop destroyed my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 768,
+        "category": "Clingy Ex",
+        "text": "My laptop melted my presentation ... what can you do, right?"
+    },
+    {
+        "id": 769,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 770,
+        "category": "Work",
+        "text": "My cat forgot about the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 771,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon ran away with my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 772,
+        "category": "Clingy Ex",
+        "text": "My goldfish ate the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 773,
+        "category": "Work",
+        "text": "My goldfish deleted the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 774,
+        "category": "Relationships",
+        "text": "The weather accidentally sent to space the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 775,
+        "category": "Work",
+        "text": "My cat ate my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 776,
+        "category": "Relationships",
+        "text": "My inner demon set fire to my alarm ... what can you do, right?"
+    },
+    {
+        "id": 777,
+        "category": "Work",
+        "text": "A wild pigeon refused to process my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 778,
+        "category": "Clingy Ex",
+        "text": "The weather refused to process my alarm ... it's a tragedy, really."
+    },
+    {
+        "id": 779,
+        "category": "School",
+        "text": "The weather melted the project files ... what can you do, right?"
+    },
+    {
+        "id": 780,
+        "category": "Work",
+        "text": "My laptop melted my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 781,
+        "category": "Strict Boss",
+        "text": "A wild pigeon destroyed my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 782,
+        "category": "Clingy Ex",
+        "text": "My cat ran away with my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 783,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon destroyed the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 784,
+        "category": "Relationships",
+        "text": "A wild pigeon ate my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 785,
+        "category": "Clingy Ex",
+        "text": "My alarm clock refused to process my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 786,
+        "category": "Work",
+        "text": "My inner demon destroyed my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 787,
+        "category": "Strict Boss",
+        "text": "My goldfish hijacked my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 788,
+        "category": "Clingy Ex",
+        "text": "A time traveler forgot about the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 789,
+        "category": "Strict Boss",
+        "text": "My dog ate my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 790,
+        "category": "School",
+        "text": "My brain set fire to my motivation ... send help."
+    },
+    {
+        "id": 791,
+        "category": "Relationships",
+        "text": "My internet router accidentally sent to space my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 792,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid refused to process my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 793,
+        "category": "School",
+        "text": "A mysterious hacker destroyed my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 794,
+        "category": "School",
+        "text": "My laptop refused to process my schedule ... what can you do, right?"
+    },
+    {
+        "id": 795,
+        "category": "Work",
+        "text": "The neighbor's kid set fire to my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 796,
+        "category": "Relationships",
+        "text": "My alarm clock accidentally sent to space my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 797,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid hijacked my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 798,
+        "category": "Work",
+        "text": "The weather ran away with my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 799,
+        "category": "Relationships",
+        "text": "My inner demon froze my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 800,
+        "category": "School",
+        "text": "My brain set fire to my alarm ... I'll try again tomorrow."
+    },
+    {
+        "id": 801,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker melted the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 802,
+        "category": "Strict Boss",
+        "text": "My cat melted my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 803,
+        "category": "School",
+        "text": "My cat accidentally sent to space my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 804,
+        "category": "Strict Boss",
+        "text": "The weather refused to process the project files ... what can you do, right?"
+    },
+    {
+        "id": 805,
+        "category": "Strict Boss",
+        "text": "My phone melted the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 806,
+        "category": "Relationships",
+        "text": "My phone ate my homework ... what can you do, right?"
+    },
+    {
+        "id": 807,
+        "category": "School",
+        "text": "A wild pigeon refused to process my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 808,
+        "category": "School",
+        "text": "An alien deleted my meeting link ... send help."
+    },
+    {
+        "id": 809,
+        "category": "Strict Boss",
+        "text": "My goldfish destroyed my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 810,
+        "category": "School",
+        "text": "My laptop ran away with my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 811,
+        "category": "School",
+        "text": "My alarm clock hijacked my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 812,
+        "category": "Clingy Ex",
+        "text": "My alarm clock refused to process my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 813,
+        "category": "Clingy Ex",
+        "text": "My laptop ate my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 814,
+        "category": "School",
+        "text": "A time traveler hijacked my memory ... what can you do, right?"
+    },
+    {
+        "id": 815,
+        "category": "Clingy Ex",
+        "text": "A time traveler forgot about my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 816,
+        "category": "School",
+        "text": "My phone refused to process my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 817,
+        "category": "School",
+        "text": "My internet router accidentally sent to space my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 818,
+        "category": "Work",
+        "text": "My phone ate my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 819,
+        "category": "Clingy Ex",
+        "text": "My dog destroyed my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 820,
+        "category": "Clingy Ex",
+        "text": "The weather set fire to my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 821,
+        "category": "Clingy Ex",
+        "text": "My goldfish accidentally sent to space the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 822,
+        "category": "School",
+        "text": "My alarm clock hijacked my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 823,
+        "category": "Strict Boss",
+        "text": "My alarm clock froze my memory ... what can you do, right?"
+    },
+    {
+        "id": 824,
+        "category": "Clingy Ex",
+        "text": "My cat forgot about my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 825,
+        "category": "School",
+        "text": "My internet router froze my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 826,
+        "category": "Work",
+        "text": "The weather froze my alarm ... what can you do, right?"
+    },
+    {
+        "id": 827,
+        "category": "Work",
+        "text": "My laptop ate the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 828,
+        "category": "School",
+        "text": "My goldfish set fire to my schedule ... what can you do, right?"
+    },
+    {
+        "id": 829,
+        "category": "Work",
+        "text": "My laptop ran away with the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 830,
+        "category": "Tech Issues",
+        "text": "Zoom crashed my entire operating system. ... what can you do, right?"
+    },
+    {
+        "id": 831,
+        "category": "Clingy Ex",
+        "text": "My dog set fire to my homework ... what can you do, right?"
+    },
+    {
+        "id": 832,
+        "category": "Work",
+        "text": "A wild pigeon set fire to my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 833,
+        "category": "School",
+        "text": "An alien refused to process my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 834,
+        "category": "School",
+        "text": "My internet router froze my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 835,
+        "category": "Work",
+        "text": "My dog set fire to my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 836,
+        "category": "School",
+        "text": "My dog refused to process my memory ... send help."
+    },
+    {
+        "id": 837,
+        "category": "Strict Boss",
+        "text": "My cat froze my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 838,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid destroyed my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 839,
+        "category": "Work",
+        "text": "A wild pigeon hijacked my schedule ... what can you do, right?"
+    },
+    {
+        "id": 840,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker ran away with my homework ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 841,
+        "category": "Strict Boss",
+        "text": "My alarm clock destroyed my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 842,
+        "category": "School",
+        "text": "An alien froze my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 843,
+        "category": "Clingy Ex",
+        "text": "My dog ate my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 844,
+        "category": "Relationships",
+        "text": "My brain ran away with the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 845,
+        "category": "Work",
+        "text": "My brain melted my motivation ... send help."
+    },
+    {
+        "id": 846,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker deleted my homework ... let's just pretend this never happened."
+    },
+    {
+        "id": 847,
+        "category": "Clingy Ex",
+        "text": "My cat accidentally sent to space my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 848,
+        "category": "Relationships",
+        "text": "My brain ran away with my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 849,
+        "category": "Work",
+        "text": "My phone froze the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 850,
+        "category": "Work",
+        "text": "My phone froze my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 851,
+        "category": "Clingy Ex",
+        "text": "My laptop accidentally sent to space my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 852,
+        "category": "Strict Boss",
+        "text": "An alien accidentally sent to space my alarm ... send help."
+    },
+    {
+        "id": 853,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon ate my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 854,
+        "category": "School",
+        "text": "My dog destroyed my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 855,
+        "category": "Work",
+        "text": "My dog hijacked the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 856,
+        "category": "School",
+        "text": "The weather ran away with my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 857,
+        "category": "Strict Boss",
+        "text": "My laptop forgot about my alarm ... send help."
+    },
+    {
+        "id": 858,
+        "category": "Work",
+        "text": "An alien refused to process my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 859,
+        "category": "Clingy Ex",
+        "text": "An alien forgot about my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 860,
+        "category": "Relationships",
+        "text": "My inner demon ran away with my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 861,
+        "category": "Relationships",
+        "text": "A wild pigeon froze my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 862,
+        "category": "Relationships",
+        "text": "My alarm clock hijacked my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 863,
+        "category": "Work",
+        "text": "My alarm clock destroyed my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 864,
+        "category": "School",
+        "text": "My phone destroyed my memory ... send help."
+    },
+    {
+        "id": 865,
+        "category": "Clingy Ex",
+        "text": "My internet router destroyed my alarm ... it's a tragedy, really."
+    },
+    {
+        "id": 866,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker set fire to my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 867,
+        "category": "Relationships",
+        "text": "My dog set fire to the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 868,
+        "category": "Clingy Ex",
+        "text": "My phone set fire to the project files ... it's a tragedy, really."
+    },
+    {
+        "id": 869,
+        "category": "Strict Boss",
+        "text": "My inner demon melted my presentation ... send help."
+    },
+    {
+        "id": 870,
+        "category": "Relationships",
+        "text": "A mysterious hacker set fire to my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 871,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid ran away with my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 872,
+        "category": "Strict Boss",
+        "text": "The weather froze my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 873,
+        "category": "Work",
+        "text": "The weather forgot about my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 874,
+        "category": "Strict Boss",
+        "text": "My phone ate the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 875,
+        "category": "Clingy Ex",
+        "text": "My alarm clock deleted my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 876,
+        "category": "Strict Boss",
+        "text": "My inner demon destroyed my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 877,
+        "category": "School",
+        "text": "My dog froze my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 878,
+        "category": "Clingy Ex",
+        "text": "A time traveler refused to process my motivation ... let's just pretend this never happened."
+    },
+    {
+        "id": 879,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker accidentally sent to space the WiFi password ... send help."
+    },
+    {
+        "id": 880,
+        "category": "Relationships",
+        "text": "My cat ran away with my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 881,
+        "category": "Clingy Ex",
+        "text": "My goldfish refused to process my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 882,
+        "category": "Strict Boss",
+        "text": "A time traveler hijacked the project files ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 883,
+        "category": "Strict Boss",
+        "text": "A time traveler melted my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 884,
+        "category": "School",
+        "text": "An alien destroyed the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 885,
+        "category": "Strict Boss",
+        "text": "My goldfish froze my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 886,
+        "category": "School",
+        "text": "My dog accidentally sent to space the WiFi password ... send help."
+    },
+    {
+        "id": 887,
+        "category": "Relationships",
+        "text": "An alien hijacked my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 888,
+        "category": "School",
+        "text": "A mysterious hacker melted my alarm ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 889,
+        "category": "Relationships",
+        "text": "My dog ran away with my meeting link ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 890,
+        "category": "School",
+        "text": "An alien refused to process the WiFi password ... send help."
+    },
+    {
+        "id": 891,
+        "category": "Relationships",
+        "text": "An alien deleted my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 892,
+        "category": "Relationships",
+        "text": "My internet router destroyed the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 893,
+        "category": "Work",
+        "text": "A mysterious hacker hijacked my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 894,
+        "category": "School",
+        "text": "My phone deleted my alarm ... send help."
+    },
+    {
+        "id": 895,
+        "category": "Strict Boss",
+        "text": "My inner demon ran away with my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 896,
+        "category": "School",
+        "text": "My phone hijacked my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 897,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker refused to process my meeting link ... what can you do, right?"
+    },
+    {
+        "id": 898,
+        "category": "Work",
+        "text": "A mysterious hacker ran away with the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 899,
+        "category": "School",
+        "text": "My inner demon froze my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 900,
+        "category": "Clingy Ex",
+        "text": "My laptop set fire to my alarm ... what can you do, right?"
+    },
+    {
+        "id": 901,
+        "category": "Clingy Ex",
+        "text": "My inner demon hijacked my homework ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 902,
+        "category": "Relationships",
+        "text": "My alarm clock ate my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 903,
+        "category": "School",
+        "text": "My internet router destroyed my schedule ... it's a tragedy, really."
+    },
+    {
+        "id": 904,
+        "category": "Strict Boss",
+        "text": "My inner demon melted my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 905,
+        "category": "Clingy Ex",
+        "text": "My cat froze my homework ... send help."
+    },
+    {
+        "id": 906,
+        "category": "Strict Boss",
+        "text": "A time traveler set fire to my presentation ... what can you do, right?"
+    },
+    {
+        "id": 907,
+        "category": "Clingy Ex",
+        "text": "My phone hijacked my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 908,
+        "category": "Work",
+        "text": "A time traveler forgot about my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 909,
+        "category": "School",
+        "text": "A mysterious hacker accidentally sent to space the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 910,
+        "category": "Clingy Ex",
+        "text": "The weather melted the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 911,
+        "category": "Strict Boss",
+        "text": "The weather refused to process the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 912,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon accidentally sent to space my presentation ... what can you do, right?"
+    },
+    {
+        "id": 913,
+        "category": "Strict Boss",
+        "text": "A mysterious hacker deleted my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 914,
+        "category": "Work",
+        "text": "A mysterious hacker ate my memory ... so yeah, I can't make it."
+    },
+    {
+        "id": 915,
+        "category": "School",
+        "text": "My brain set fire to my presentation ... what can you do, right?"
+    },
+    {
+        "id": 916,
+        "category": "Clingy Ex",
+        "text": "My cat set fire to my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 917,
+        "category": "Relationships",
+        "text": "A time traveler hijacked my presentation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 918,
+        "category": "Strict Boss",
+        "text": "My laptop forgot about the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 919,
+        "category": "Clingy Ex",
+        "text": "My alarm clock accidentally sent to space my schedule ... so yeah, I can't make it."
+    },
+    {
+        "id": 920,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid melted my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 921,
+        "category": "School",
+        "text": "My inner demon refused to process my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 922,
+        "category": "Relationships",
+        "text": "The weather refused to process my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 923,
+        "category": "Relationships",
+        "text": "My inner demon ran away with my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 924,
+        "category": "Relationships",
+        "text": "My goldfish melted my homework ... send help."
+    },
+    {
+        "id": 925,
+        "category": "Clingy Ex",
+        "text": "A time traveler ate my motivation ... send help."
+    },
+    {
+        "id": 926,
+        "category": "Clingy Ex",
+        "text": "My cat accidentally sent to space my keys ... send help."
+    },
+    {
+        "id": 927,
+        "category": "Strict Boss",
+        "text": "My goldfish ran away with my schedule ... send help."
+    },
+    {
+        "id": 928,
+        "category": "Strict Boss",
+        "text": "My phone ran away with my presentation ... what can you do, right?"
+    },
+    {
+        "id": 929,
+        "category": "Strict Boss",
+        "text": "My laptop accidentally sent to space my alarm ... send help."
+    },
+    {
+        "id": 930,
+        "category": "Work",
+        "text": "My goldfish set fire to my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 931,
+        "category": "Strict Boss",
+        "text": "My inner demon set fire to my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 932,
+        "category": "School",
+        "text": "My laptop destroyed my presentation ... what can you do, right?"
+    },
+    {
+        "id": 933,
+        "category": "Strict Boss",
+        "text": "A time traveler ran away with the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 934,
+        "category": "Relationships",
+        "text": "A wild pigeon hijacked my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 935,
+        "category": "Work",
+        "text": "My brain destroyed my alarm ... send help."
+    },
+    {
+        "id": 936,
+        "category": "Relationships",
+        "text": "My internet router froze my alarm ... so yeah, I can't make it."
+    },
+    {
+        "id": 937,
+        "category": "Work",
+        "text": "My inner demon accidentally sent to space my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 938,
+        "category": "Clingy Ex",
+        "text": "My brain destroyed my homework ... send help."
+    },
+    {
+        "id": 939,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon destroyed my presentation ... what can you do, right?"
+    },
+    {
+        "id": 940,
+        "category": "Relationships",
+        "text": "The neighbor's kid deleted my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 941,
+        "category": "Work",
+        "text": "The neighbor's kid refused to process my alarm ... let's just pretend this never happened."
+    },
+    {
+        "id": 942,
+        "category": "School",
+        "text": "My inner demon melted my presentation ... what can you do, right?"
+    },
+    {
+        "id": 943,
+        "category": "Strict Boss",
+        "text": "My phone refused to process my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 944,
+        "category": "School",
+        "text": "My goldfish destroyed my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 945,
+        "category": "Clingy Ex",
+        "text": "A wild pigeon set fire to the WiFi password ... send help."
+    },
+    {
+        "id": 946,
+        "category": "Work",
+        "text": "The neighbor's kid melted my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 947,
+        "category": "Work",
+        "text": "My laptop melted my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 948,
+        "category": "Relationships",
+        "text": "My dog forgot about the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 949,
+        "category": "Strict Boss",
+        "text": "My alarm clock hijacked my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 950,
+        "category": "Work",
+        "text": "My inner demon forgot about the WiFi password ... send help."
+    },
+    {
+        "id": 951,
+        "category": "School",
+        "text": "My brain ran away with the WiFi password ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 952,
+        "category": "Work",
+        "text": "My cat refused to process the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 953,
+        "category": "Relationships",
+        "text": "A time traveler melted my presentation ... send help."
+    },
+    {
+        "id": 954,
+        "category": "Clingy Ex",
+        "text": "My goldfish accidentally sent to space the project files ... what can you do, right?"
+    },
+    {
+        "id": 955,
+        "category": "Work",
+        "text": "My inner demon melted my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 956,
+        "category": "Relationships",
+        "text": "My alarm clock ran away with my keys ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 957,
+        "category": "Strict Boss",
+        "text": "The weather melted my keys ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 958,
+        "category": "Relationships",
+        "text": "My phone melted my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 959,
+        "category": "Clingy Ex",
+        "text": "A time traveler forgot about my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 960,
+        "category": "Clingy Ex",
+        "text": "My phone accidentally sent to space my motivation ... what can you do, right?"
+    },
+    {
+        "id": 961,
+        "category": "Clingy Ex",
+        "text": "My laptop forgot about my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 962,
+        "category": "Clingy Ex",
+        "text": "My goldfish accidentally sent to space my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 963,
+        "category": "Strict Boss",
+        "text": "A wild pigeon forgot about my presentation ... I'll try again tomorrow."
+    },
+    {
+        "id": 964,
+        "category": "Work",
+        "text": "My laptop refused to process the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 965,
+        "category": "Relationships",
+        "text": "My laptop destroyed the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 966,
+        "category": "School",
+        "text": "A wild pigeon accidentally sent to space my meeting link ... let's just pretend this never happened."
+    },
+    {
+        "id": 967,
+        "category": "Relationships",
+        "text": "My internet router ran away with my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 968,
+        "category": "Relationships",
+        "text": "The neighbor's kid ate my homework ... so yeah, I can't make it."
+    },
+    {
+        "id": 969,
+        "category": "School",
+        "text": "An alien deleted my keys ... so yeah, I can't make it."
+    },
+    {
+        "id": 970,
+        "category": "Clingy Ex",
+        "text": "An alien froze my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 971,
+        "category": "School",
+        "text": "My alarm clock deleted my schedule ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 972,
+        "category": "School",
+        "text": "My inner demon forgot about the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 973,
+        "category": "Relationships",
+        "text": "An alien ran away with my schedule ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 974,
+        "category": "Relationships",
+        "text": "A wild pigeon accidentally sent to space the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 975,
+        "category": "Strict Boss",
+        "text": "My alarm clock froze my memory ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 976,
+        "category": "Clingy Ex",
+        "text": "My phone forgot about the project files ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 977,
+        "category": "Work",
+        "text": "A wild pigeon ran away with my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 978,
+        "category": "Strict Boss",
+        "text": "My dog ate my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 979,
+        "category": "Relationships",
+        "text": "My phone deleted my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 980,
+        "category": "Strict Boss",
+        "text": "A time traveler froze my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 981,
+        "category": "Work",
+        "text": "The weather melted my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 982,
+        "category": "Strict Boss",
+        "text": "My inner demon deleted my keys ... what can you do, right?"
+    },
+    {
+        "id": 983,
+        "category": "Relationships",
+        "text": "My dog refused to process my presentation ... it's a tragedy, really."
+    },
+    {
+        "id": 984,
+        "category": "Clingy Ex",
+        "text": "My laptop refused to process my motivation ... what can you do, right?"
+    },
+    {
+        "id": 985,
+        "category": "School",
+        "text": "My alarm clock destroyed my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 986,
+        "category": "Work",
+        "text": "A mysterious hacker froze my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 987,
+        "category": "Work",
+        "text": "My internet router refused to process the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 988,
+        "category": "School",
+        "text": "My internet router deleted my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 989,
+        "category": "Work",
+        "text": "My brain ate the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 990,
+        "category": "Clingy Ex",
+        "text": "My internet router deleted my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 991,
+        "category": "Relationships",
+        "text": "My alarm clock set fire to my memory ... what can you do, right?"
+    },
+    {
+        "id": 992,
+        "category": "Strict Boss",
+        "text": "My brain accidentally sent to space my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 993,
+        "category": "Work",
+        "text": "A wild pigeon refused to process the WiFi password ... what can you do, right?"
+    },
+    {
+        "id": 994,
+        "category": "School",
+        "text": "My inner demon forgot about the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 995,
+        "category": "School",
+        "text": "My cat destroyed my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 996,
+        "category": "Clingy Ex",
+        "text": "An alien destroyed my motivation ... I'll try again tomorrow."
+    },
+    {
+        "id": 997,
+        "category": "Relationships",
+        "text": "My cat destroyed my presentation ... so yeah, I can't make it."
+    },
+    {
+        "id": 998,
+        "category": "School",
+        "text": "My goldfish melted my keys ... I'll try again tomorrow."
+    },
+    {
+        "id": 999,
+        "category": "Strict Boss",
+        "text": "The neighbor's kid hijacked my memory ... let's just pretend this never happened."
+    },
+    {
+        "id": 1000,
+        "category": "Strict Boss",
+        "text": "A wild pigeon set fire to my meeting link ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 1001,
+        "category": "Clingy Ex",
+        "text": "My cat ate my keys ... what can you do, right?"
+    },
+    {
+        "id": 1002,
+        "category": "School",
+        "text": "My cat froze my keys ... it's a tragedy, really."
+    },
+    {
+        "id": 1003,
+        "category": "School",
+        "text": "The weather set fire to the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 1004,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker accidentally sent to space the project files ... what can you do, right?"
+    },
+    {
+        "id": 1005,
+        "category": "School",
+        "text": "My internet router forgot about my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 1006,
+        "category": "Clingy Ex",
+        "text": "My internet router melted my meeting link ... so yeah, I can't make it."
+    },
+    {
+        "id": 1007,
+        "category": "Strict Boss",
+        "text": "My brain forgot about my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 1008,
+        "category": "School",
+        "text": "My internet router ate my memory ... it's a tragedy, really."
+    },
+    {
+        "id": 1009,
+        "category": "Work",
+        "text": "My phone hijacked my keys ... let's just pretend this never happened."
+    },
+    {
+        "id": 1010,
+        "category": "Strict Boss",
+        "text": "My laptop hijacked the project files ... let's just pretend this never happened."
+    },
+    {
+        "id": 1011,
+        "category": "School",
+        "text": "A wild pigeon set fire to my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1012,
+        "category": "Relationships",
+        "text": "A wild pigeon hijacked my homework ... I'll try again tomorrow."
+    },
+    {
+        "id": 1013,
+        "category": "Work",
+        "text": "An alien forgot about the WiFi password ... let's just pretend this never happened."
+    },
+    {
+        "id": 1014,
+        "category": "Relationships",
+        "text": "My brain refused to process my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 1015,
+        "category": "School",
+        "text": "My inner demon hijacked my meeting link ... I'll try again tomorrow."
+    },
+    {
+        "id": 1016,
+        "category": "Clingy Ex",
+        "text": "My brain set fire to my homework ... what can you do, right?"
+    },
+    {
+        "id": 1017,
+        "category": "Clingy Ex",
+        "text": "My dog forgot about the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1018,
+        "category": "Work",
+        "text": "My cat ran away with the WiFi password ... I'll try again tomorrow."
+    },
+    {
+        "id": 1019,
+        "category": "Work",
+        "text": "A wild pigeon ate my schedule ... let's just pretend this never happened."
+    },
+    {
+        "id": 1020,
+        "category": "School",
+        "text": "My goldfish deleted my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 1021,
+        "category": "Strict Boss",
+        "text": "My internet router set fire to my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 1022,
+        "category": "School",
+        "text": "My phone melted my keys ... send help."
+    },
+    {
+        "id": 1023,
+        "category": "Relationships",
+        "text": "The neighbor's kid accidentally sent to space my presentation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1024,
+        "category": "Clingy Ex",
+        "text": "My internet router forgot about my motivation ... so yeah, I can't make it."
+    },
+    {
+        "id": 1025,
+        "category": "Relationships",
+        "text": "My laptop accidentally sent to space my schedule ... I'll try again tomorrow."
+    },
+    {
+        "id": 1026,
+        "category": "Clingy Ex",
+        "text": "The neighbor's kid forgot about my memory ... send help."
+    },
+    {
+        "id": 1027,
+        "category": "Relationships",
+        "text": "My internet router refused to process my presentation ... what can you do, right?"
+    },
+    {
+        "id": 1028,
+        "category": "School",
+        "text": "A time traveler hijacked my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 1029,
+        "category": "Clingy Ex",
+        "text": "My dog hijacked my memory ... I'll try again tomorrow."
+    },
+    {
+        "id": 1030,
+        "category": "Clingy Ex",
+        "text": "A time traveler accidentally sent to space the project files ... what can you do, right?"
+    },
+    {
+        "id": 1031,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker destroyed my alarm ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 1032,
+        "category": "Strict Boss",
+        "text": "The weather hijacked my motivation ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1033,
+        "category": "Strict Boss",
+        "text": "An alien destroyed my presentation ... let's just pretend this never happened."
+    },
+    {
+        "id": 1034,
+        "category": "Clingy Ex",
+        "text": "A mysterious hacker melted my presentation ... send help."
+    },
+    {
+        "id": 1035,
+        "category": "Work",
+        "text": "A time traveler ate my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 1036,
+        "category": "School",
+        "text": "My phone froze the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1037,
+        "category": "School",
+        "text": "My alarm clock destroyed the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1038,
+        "category": "Strict Boss",
+        "text": "The weather accidentally sent to space the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1039,
+        "category": "School",
+        "text": "A time traveler ate my keys ... what can you do, right?"
+    },
+    {
+        "id": 1040,
+        "category": "School",
+        "text": "My cat ran away with my motivation ... please respect my privacy during this difficult time."
+    },
+    {
+        "id": 1041,
+        "category": "Relationships",
+        "text": "The weather ran away with my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 1042,
+        "category": "Work",
+        "text": "A time traveler forgot about my presentation ... send help."
+    },
+    {
+        "id": 1043,
+        "category": "Relationships",
+        "text": "My brain accidentally sent to space the WiFi password ... so yeah, I can't make it."
+    },
+    {
+        "id": 1044,
+        "category": "Relationships",
+        "text": "My cat hijacked the project files ... so yeah, I can't make it."
+    },
+    {
+        "id": 1045,
+        "category": "Work",
+        "text": "The neighbor's kid destroyed the project files ... I'll try again tomorrow."
+    },
+    {
+        "id": 1046,
+        "category": "School",
+        "text": "An alien destroyed my meeting link ... it's a tragedy, really."
+    },
+    {
+        "id": 1047,
+        "category": "Work",
+        "text": "My cat forgot about my alarm ... send help."
+    },
+    {
+        "id": 1048,
+        "category": "Strict Boss",
+        "text": "A wild pigeon hijacked my homework ... it's a tragedy, really."
+    },
+    {
+        "id": 1049,
+        "category": "Strict Boss",
+        "text": "My inner demon forgot about the WiFi password ... honestly, I'm just as surprised as you."
+    },
+    {
+        "id": 1050,
+        "category": "Relationships",
+        "text": "My dog ran away with the WiFi password ... send help."
+    }
+]
